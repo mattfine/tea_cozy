@@ -1,4 +1,48 @@
 /* Page Settings */
 body {
   margin: 0;
+  font-family: Helvetica, sans-serif;
+  color: seashell;
+  background-color: black;
+  opacity: 0.9;
 }
+
+a {
+  font-size: 22px;
+  color: seashell;
+  padding: 10px;
+}
+
+/* Header Settings */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 69px;
+  width: 100%;
+  border-bottom: 1px solid seashell;
+  position: fixed;
+  z-index: 5;
+}
+
+.logo {
+  display: flex;
+  height: 50px;
+  width: auto;
+  padding-left: 10px;
+}
+
+nav {
+  display: flex;
+}
+
+/* Our Mission Section Settings */
+
+
+/* Feature Tea Section Settings */
+
+
+/* Locations Section Settings */
+
+
+/* Footer Settings */
